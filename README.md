@@ -21,11 +21,6 @@ Automata te permite crear tablas de transiciones por medio de sus hojas de calcu
 
 Automata permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File).
 
-Automata recibe:
-
-- Cadenas (Que tiene que contener nada mas las expresiones regulares de un lenguaje).
-- Matriz de Transiciones (lo cual esta representado en forma de tabla, que puede ser importado desde un archivo en formato .cvs).
-
 
 ## Información sobre los autómatas finitos
 
