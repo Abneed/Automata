@@ -85,7 +85,7 @@
             this.nuevoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.nuevoTablaDeTransicionesToolStripMenuItem});
             this.nuevoToolStripMenuItem.Name = "nuevoToolStripMenuItem";
-            this.nuevoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.nuevoToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.nuevoToolStripMenuItem.Text = "Nuevo";
             // 
             // nuevoTablaDeTransicionesToolStripMenuItem
@@ -100,7 +100,7 @@
             this.abrirToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirTablaDeTransicionesToolStripMenuItem});
             this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.abrirToolStripMenuItem.Text = "Abrir";
             // 
             // abrirTablaDeTransicionesToolStripMenuItem
@@ -117,7 +117,7 @@
             this.salirToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Transparent;
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.ShortcutKeyDisplayString = "Alt+F4";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 

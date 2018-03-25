@@ -22,3 +22,15 @@ C:\Users\Abneed\source\repos\Automata_Original\Automata\obj\Debug\Automata.cspro
 C:\Users\Abneed\source\repos\Automata_Original\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
 C:\Users\Abneed\source\repos\Automata_Original\Automata\obj\Debug\Automata.exe
 C:\Users\Abneed\source\repos\Automata_Original\Automata\obj\Debug\Automata.pdb
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.frmAcercaDe.resources
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.frmMain.resources
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.frmNuevoTablaDeTransiciones.resources
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.Cache
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\Abneed\Documents\GitHub\Automata\Automata\obj\Debug\Automata.pdb

@@ -100,5 +100,11 @@
   <ItemGroup>
     <None Include="Resources\exit.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AutomataLogoWithoutTitleOpacity.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AutomataLogoWithoutTitle.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
