@@ -2,20 +2,22 @@
 
 Aplicación de escritorio para Windows que simula el comportamiento de un autómata finito por medio de una matriz o tabla de transiciones, que puede ser ingresado de forma manual por el usuario en el mismo programa o importado desde un archivo de formato .cvs (Comma Separated Values File).
 
+![Imagen de Automata](img/AutomataOfficialLogo510HeightTitle.jpg)
+*Automata imagen por [Guillermo A. Rodríguez][gar].*
 
-## Almacenamiento de las cadenas
+### Almacenamiento de las cadenas
 
 Automata almacena las cadenas que fueron ingresadas al igual de que cual fue el estado final del autómata finito, si fue aceptada o no la cadena, y la clave TOKEN correspondiente al elemento evaluado, mismo que se encuentra en la columna CAT (conversión a token).
 
-## Procedimiento del autómata finito
+### Procedimiento del autómata finito
 
 Automata muestra el procedimiento del automata finito por medio de una hoja de calculo, y va mostrando los estados que se recorrieron dependiendo de la cadena que fue ingresada. 
 
-## Crear tablas de transiciones
+### Crear tablas de transiciones
 
 Automata te permite crear tablas de transiciones por medio de sus hojas de calculo.
 
-## Abrir tablas de transiciones
+### Abrir tablas de transiciones
 
 Automata permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File).
 
@@ -25,7 +27,7 @@ Automata recibe:
 - Matriz de Transiciones (lo cual esta representado en forma de tabla, que puede ser importado desde un archivo en formato .cvs).
 
 
-# Información sobre los autómatas finitos
+## Información sobre los autómatas finitos
 
 ### ¿Qué es un autómata finito?
 
@@ -64,3 +66,5 @@ Es la manera lógica de expresar la información de un diagrama de transiciones,
 ## Bibliografía:
 
 Cantú Treviño, Thelma Guadalupe & Mendoza García, María Guadalupe. (2015). Teoría de autómatas. Un enfoqué práctico.. Avenida Antonio Dovalí Jaime #70 Torre B, Piso 6, Colonia Zedec Ed Plaza Santa Fe Delegación Álvaro Obregón, México, Distrito Federal, C.P. 01210: Pearson Educación de México, S.A. de C.V..
+
+[gar]: https://github.com/Abneed
