@@ -7,19 +7,19 @@ Aplicación de escritorio para Windows que simula el comportamiento de un autóm
 
 ### Almacenamiento de las cadenas
 
-Automata almacena las cadenas que fueron ingresadas al igual de que cual fue el estado final del autómata finito, si fue aceptada o no la cadena, y la clave TOKEN correspondiente al elemento evaluado, mismo que se encuentra en la columna CAT (conversión a token).
+*Automata* almacena las cadenas que fueron ingresadas al igual de que cual fue el estado final del autómata finito, si fue aceptada o no la cadena, y la clave TOKEN correspondiente al elemento evaluado, mismo que se encuentra en la columna CAT (conversión a token).
 
 ### Procedimiento del autómata finito
 
-Automata muestra el procedimiento del automata finito por medio de una hoja de calculo, y va mostrando los estados que se recorrieron dependiendo de la cadena que fue ingresada. 
+*Automata* muestra el procedimiento del autómata finito por medio de una hoja de calculo, y va mostrando los estados que se recorrieron dependiendo de la cadena que fue ingresada. 
 
 ### Crear tablas de transiciones
 
-Automata te permite crear tablas de transiciones por medio de sus hojas de calculo.
+*Automata* te permite crear tablas de transiciones por medio de sus hojas de calculo.
 
 ### Abrir tablas de transiciones
 
-Automata permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File).
+*Automata* permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File).
 
 
 ## Información sobre los autómatas finitos
