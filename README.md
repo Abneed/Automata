@@ -19,7 +19,7 @@ Aplicación de escritorio para Windows que simula el comportamiento de un autóm
 
 ### Abrir tablas de transiciones
 
-*Automata* permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File).
+*Automata* permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File), gracias a su modulo *AnalizadorGenerico*, que permite leer cualquier archivo de tipo plano.
 
 
 ## Información sobre los autómatas finitos
