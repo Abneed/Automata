@@ -13,10 +13,6 @@ Aplicación de escritorio para Windows que simula el comportamiento de un autóm
 
 *Automata* muestra el procedimiento del autómata finito por medio de una hoja de calculo, y va mostrando los estados que se recorrieron dependiendo de la cadena que fue ingresada. 
 
-### Crear tablas de transiciones
-
-*Automata* te permite crear tablas de transiciones por medio de sus hojas de calculo.
-
 ### Abrir tablas de transiciones
 
 *Automata* permite importa tablas de transiciones desde por medio de archivos en formato .cvs (Comma Separated Values File), gracias a su modulo *AnalizadorGenerico*, que permite leer cualquier archivo de tipo plano.
